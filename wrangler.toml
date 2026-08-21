@@ -1,4 +1,4 @@
-name = "irm-extra"
+name = "irm-extra-1"
 main = ".open-next/worker.js"
 
 compatibility_date = "2026-08-21"
